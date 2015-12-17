@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.886</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:00.960" end="00:00:04.570">...I'm very lucky my parents.</p>
+      <p begin="00:00:04.570" end="00:00:07.160">Pocketbooksencourage</p>
+      <p begin="00:00:07.160" end="00:00:11.340">...things ...to a very good school.</p>
+      <p begin="00:00:11.340" end="00:00:13.270">So, I got to think about science</p>
+      <p begin="00:00:13.270" end="00:00:18.460">and scientific discovery and in fact right about that time the</p>
+      <p begin="00:00:18.460" end="00:00:23.640">very first computers came along so I was very curious to play with it in</p>
+      <p begin="00:00:23.640" end="00:00:27.840">fact my teachers founded confusing so they let me</p>
+      <p begin="00:00:27.840" end="00:00:31.600">...that I even ended up teaching the other students about</p>
+      <p begin="00:00:31.600" end="00:00:36.090">the computer sighing I got to dream and see</p>
+      <p begin="00:00:36.090" end="00:00:41.300">something that would really be different...amazing at a quite</p>
+      <p begin="00:00:41.300" end="00:00:45.870">young age I feel incredibly lucky that my</p>
+      <p begin="00:00:45.870" end="00:00:51.340">successor microsoftcreatedsomething of</p>
+      <p begin="00:00:51.340" end="00:00:56.110">the economic value and now I have the responsibility and also</p>
+      <p begin="00:00:56.110" end="00:01:01.810">the privilege of working with by white belinda to make sure it goes</p>
+      <p begin="00:01:01.810" end="00:01:02.790">To the world.</p>
+
+    </div>
+  </body>
+</tt>

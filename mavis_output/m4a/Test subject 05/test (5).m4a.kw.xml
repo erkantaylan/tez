@@ -1,0 +1,47 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>born straws france,turkish parents,single child,words,geometrical,shape,circles,mom,raised,single-mother,seventies,ankara,families</mavis:keywords>
+  <items>
+    <mavis:keyword Content="born straws france" Count="1" AvgConfidence="0.83">
+      <mavis:keyworddetail Confidence="0.83" Offset="11.33" />
+    </mavis:keyword>
+    <mavis:keyword Content="turkish parents" Count="1" AvgConfidence="0.87">
+      <mavis:keyworddetail Confidence="0.87" Offset="14.17" />
+    </mavis:keyword>
+    <mavis:keyword Content="single child" Count="1" AvgConfidence="0.95">
+      <mavis:keyworddetail Confidence="0.95" Offset="21.68" />
+    </mavis:keyword>
+    <mavis:keyword Content="words" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="1.62" />
+    </mavis:keyword>
+    <mavis:keyword Content="geometrical" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="3.6" />
+    </mavis:keyword>
+    <mavis:keyword Content="shape" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="4.34" />
+    </mavis:keyword>
+    <mavis:keyword Content="circles" Count="2" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="1.00" Offset="4.95" />
+      <mavis:keyworddetail Confidence="0.80" Offset="8.86" />
+    </mavis:keyword>
+    <mavis:keyword Content="mom" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="19.21" />
+    </mavis:keyword>
+    <mavis:keyword Content="raised" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="21.1" />
+    </mavis:keyword>
+    <mavis:keyword Content="single-mother" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="22.68" />
+    </mavis:keyword>
+    <mavis:keyword Content="seventies" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="24.97" />
+    </mavis:keyword>
+    <mavis:keyword Content="ankara" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="25.82" />
+    </mavis:keyword>
+    <mavis:keyword Content="families" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="29.67" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

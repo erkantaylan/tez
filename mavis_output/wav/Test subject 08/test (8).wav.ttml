@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.920</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:00.190" end="00:00:03.780">Over one hundred miles of scenic river now a neon</p>
+      <p begin="00:00:03.780" end="00:00:08.540">ribbon of sludge environmental protection agency says it was excavating around an old</p>
+      <p begin="00:00:08.540" end="00:00:13.340">mine in colorado when heavy machinery toward this whole wastewater spewed into the</p>
+      <p begin="00:00:13.340" end="00:00:18.220">...near silverton colorado working its way self towards deranged go into new mexico</p>
+      <p begin="00:00:18.220" end="00:00:21.310">...nell passing farmington tracking west toward ship brock</p>
+      <p begin="00:00:21.310" end="00:00:25.890">in the colorado river moving at less than four miles per hour official say they</p>
+      <p begin="00:00:25.890" end="00:00:30.280">are protecting drinking water from the contaminated river...show the water around the</p>
+      <p begin="00:00:30.280" end="00:00:34.500">mine has traces of...arsenic and is now...as strong</p>
+      <p begin="00:00:34.500" end="00:00:39.350">coffee and river guides depended on rafting tourism dollars to keep them afloat have been</p>
+      <p begin="00:00:39.350" end="00:00:42.660">sideline during the busy summer season this afternoon the</p>
+      <p begin="00:00:42.660" end="00:00:47.060">leak was finally stopped but the questions continue the governor of new mexico</p>
+      <p begin="00:00:47.060" end="00:00:51.440">...on a martinez took aim at the epa on facebook friday morning posting</p>
+      <p begin="00:00:51.440" end="00:00:54.550">imagine what would happen if a private company cause this way</p>
+      <p begin="00:00:54.550" end="00:00:59.350">spill adding I'm disturbed by the lack of information provided by the epa?</p>
+
+    </div>
+  </body>
+</tt>

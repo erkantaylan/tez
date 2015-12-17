@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.937</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:00.420" end="00:00:03.770">This is not a giving up of our of ...he's made</p>
+      <p begin="00:00:03.770" end="00:00:08.710">it very clear that it's forty five billion pounds over his lifetime and there's plenty of years</p>
+      <p begin="00:00:08.710" end="00:00:13.320">left in that he's made it very clear that he's going to remain as chairman and chief</p>
+      <p begin="00:00:13.320" end="00:00:18.080">executive of facebook for many years to come he will only</p>
+      <p begin="00:00:18.080" end="00:00:22.300">...only pledged in the first three years to donate</p>
+      <p begin="00:00:22.300" end="00:00:26.410">warm billion dollars worth of stock each year so</p>
+      <p begin="00:00:26.410" end="00:00:28.970">it's not as if he's giving up ninety nine percent of</p>
+      <p begin="00:00:28.970" end="00:00:33.530">...options now he has also made it clear vat he model so</p>
+      <p begin="00:00:33.530" end="00:00:37.640">bug will still be the majority shareholder in facebook at the moment here</p>
+      <p begin="00:00:37.640" end="00:00:42.110">and fifty three percent of the business that will remain...the case</p>
+      <p begin="00:00:42.110" end="00:00:47.180">and the charitable foundation that he's starting to run</p>
+      <p begin="00:00:47.180" end="00:00:52.290">this projects this global project on the supporting ansi poverty</p>
+      <p begin="00:00:52.290" end="00:00:57.240">moves that is run by him and his wife priscilla cham</p>
+      <p begin="00:00:57.240" end="00:01:01.760">...wholly owned by them and that will deal with the stock options.</p>
+
+    </div>
+  </body>
+</tt>

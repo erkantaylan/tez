@@ -1,0 +1,52 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>students teachers businesses,nonprofit organizations,computer science,country future,video game,phone program,week,join,steps,learning,skills,america,cutting-edge,americans,tools</mavis:keywords>
+  <items>
+    <mavis:keyword Content="students teachers businesses" Count="1" AvgConfidence="0.84">
+      <mavis:keyworddetail Confidence="0.84" Offset="1.53" />
+    </mavis:keyword>
+    <mavis:keyword Content="nonprofit organizations" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="3.59" />
+    </mavis:keyword>
+    <mavis:keyword Content="computer science" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="7.07" />
+    </mavis:keyword>
+    <mavis:keyword Content="country future" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="13.6" />
+    </mavis:keyword>
+    <mavis:keyword Content="video game" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="28.73" />
+    </mavis:keyword>
+    <mavis:keyword Content="phone program" Count="1" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="36.02" />
+    </mavis:keyword>
+    <mavis:keyword Content="week" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="0.32" />
+    </mavis:keyword>
+    <mavis:keyword Content="join" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="1.09" />
+    </mavis:keyword>
+    <mavis:keyword Content="steps" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="6.14" />
+    </mavis:keyword>
+    <mavis:keyword Content="learning" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="9.92" />
+    </mavis:keyword>
+    <mavis:keyword Content="skills" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="10.35" />
+    </mavis:keyword>
+    <mavis:keyword Content="america" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="15.57" />
+    </mavis:keyword>
+    <mavis:keyword Content="cutting-edge" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="16.5" />
+    </mavis:keyword>
+    <mavis:keyword Content="americans" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="18.03" />
+    </mavis:keyword>
+    <mavis:keyword Content="tools" Count="1" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="19.82" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.906</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:00.080" end="00:00:01.770">My name's charles adler animate</p>
+      <p begin="00:00:01.770" end="00:00:07.270">co-founder of kick-start in a setting the genesis of the platform starts with co-founder</p>
+      <p begin="00:00:07.270" end="00:00:10.700">...back in twenty-one when he was trying to</p>
+      <p begin="00:00:10.700" end="00:00:15.390">...event is mania ambition was of sharing this music and</p>
+      <p begin="00:00:15.390" end="00:00:20.840">in this cultural event with community in around norman's and,</p>
+      <p begin="00:00:20.840" end="00:00:25.170">missing component was the funding to get the thing off the</p>
+      <p begin="00:00:25.170" end="00:00:26.420">ground.</p>
+      <p begin="00:00:26.420" end="00:00:30.300">...eventually became the thing that solve that problem and</p>
+      <p begin="00:00:30.300" end="00:00:34.980">...heart of added still...sort of beating today which is effectively getting all</p>
+      <p begin="00:00:34.980" end="00:00:40.700">these projects that their pet projects for people creative projects.</p>
+      <p begin="00:00:40.700" end="00:00:45.390">Into culture...into bring back that sort of creative spirit that</p>
+      <p begin="00:00:45.390" end="00:00:49.500">creative independence back into what we see every day like region</p>
+      <p begin="00:00:49.500" end="00:00:51.420">and contribute to world.</p>
+      <p begin="00:00:51.420" end="00:00:56.280">And, I think, you know, that's one thing that kept us going...we're looking at, you know,</p>
+      <p begin="00:00:56.280" end="00:01:01.190">some competitor popping up before we launched its moment of potential distraction.</p>
+
+    </div>
+  </body>
+</tt>

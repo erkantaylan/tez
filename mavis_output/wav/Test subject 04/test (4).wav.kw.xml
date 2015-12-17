@@ -1,0 +1,61 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>people creative projects,main ambition,cultural event,missing component,pet projects,creative spirit,creative independence,potential distraction,charles,genesis,music,funding,heart,sort,day,region,world,competitor</mavis:keywords>
+  <items>
+    <mavis:keyword Content="people creative projects" Count="1" AvgConfidence="0.93">
+      <mavis:keyworddetail Confidence="0.93" Offset="37.19" />
+    </mavis:keyword>
+    <mavis:keyword Content="main ambition" Count="1" AvgConfidence="0.93">
+      <mavis:keyworddetail Confidence="0.93" Offset="12.3" />
+    </mavis:keyword>
+    <mavis:keyword Content="cultural event" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="15.98" />
+    </mavis:keyword>
+    <mavis:keyword Content="missing component" Count="1" AvgConfidence="0.88">
+      <mavis:keyworddetail Confidence="0.88" Offset="20.84" />
+    </mavis:keyword>
+    <mavis:keyword Content="pet projects" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="36.45" />
+    </mavis:keyword>
+    <mavis:keyword Content="creative spirit" Count="1" AvgConfidence="0.95">
+      <mavis:keyworddetail Confidence="0.95" Offset="44.44" />
+    </mavis:keyword>
+    <mavis:keyword Content="creative independence" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="45.39" />
+    </mavis:keyword>
+    <mavis:keyword Content="potential distraction" Count="1" AvgConfidence="0.93">
+      <mavis:keyworddetail Confidence="0.93" Offset="59.73" />
+    </mavis:keyword>
+    <mavis:keyword Content="charles" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="0.36" />
+    </mavis:keyword>
+    <mavis:keyword Content="genesis" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="4.52" />
+    </mavis:keyword>
+    <mavis:keyword Content="music" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="14.68" />
+    </mavis:keyword>
+    <mavis:keyword Content="funding" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="23.7" />
+    </mavis:keyword>
+    <mavis:keyword Content="heart" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="30.58" />
+    </mavis:keyword>
+    <mavis:keyword Content="sort" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="44.25" />
+    </mavis:keyword>
+    <mavis:keyword Content="day" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="48.37" />
+    </mavis:keyword>
+    <mavis:keyword Content="region" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="49.23" />
+    </mavis:keyword>
+    <mavis:keyword Content="world" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="50.36" />
+    </mavis:keyword>
+    <mavis:keyword Content="competitor" Count="1" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="56.44" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

@@ -1,0 +1,53 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>sludge environmental protection agency,farmington tracking west,scenic river,heavy machinery,silverton colorado,mexico nell,colorado river,hour official,drinking water,contaminated river,miles,spewed,moving,traces,arsenic</mavis:keywords>
+  <items>
+    <mavis:keyword Content="sludge environmental protection agency" Count="1" AvgConfidence="0.94">
+      <mavis:keyworddetail Confidence="0.94" Offset="4.25" />
+    </mavis:keyword>
+    <mavis:keyword Content="farmington tracking west" Count="1" AvgConfidence="0.97">
+      <mavis:keyworddetail Confidence="0.97" Offset="19.19" />
+    </mavis:keyword>
+    <mavis:keyword Content="scenic river" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="1.73" />
+    </mavis:keyword>
+    <mavis:keyword Content="heavy machinery" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="9.76" />
+    </mavis:keyword>
+    <mavis:keyword Content="silverton colorado" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="13.89" />
+    </mavis:keyword>
+    <mavis:keyword Content="mexico nell" Count="1" AvgConfidence="0.83">
+      <mavis:keyworddetail Confidence="0.83" Offset="17.46" />
+    </mavis:keyword>
+    <mavis:keyword Content="colorado river" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="21.45" />
+    </mavis:keyword>
+    <mavis:keyword Content="hour official" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="24.62" />
+    </mavis:keyword>
+    <mavis:keyword Content="drinking water" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="26.49" />
+    </mavis:keyword>
+    <mavis:keyword Content="contaminated river" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="27.46" />
+    </mavis:keyword>
+    <mavis:keyword Content="miles" Count="2" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="1.19" />
+      <mavis:keyworddetail Confidence="1.00" Offset="24" />
+    </mavis:keyword>
+    <mavis:keyword Content="spewed" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="12.46" />
+    </mavis:keyword>
+    <mavis:keyword Content="moving" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="22.67" />
+    </mavis:keyword>
+    <mavis:keyword Content="traces" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="30.83" />
+    </mavis:keyword>
+    <mavis:keyword Content="arsenic" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="31.78" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>
