@@ -1,0 +1,46 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>scientific discovery,white belinda,parents,school,science,time,computers,teachers,students,age,economic,responsibility,world</mavis:keywords>
+  <items>
+    <mavis:keyword Content="scientific discovery" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="14.02" />
+    </mavis:keyword>
+    <mavis:keyword Content="white belinda" Count="1" AvgConfidence="0.88">
+      <mavis:keyworddetail Confidence="0.88" Offset="58.41" />
+    </mavis:keyword>
+    <mavis:keyword Content="parents" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="2.64" />
+    </mavis:keyword>
+    <mavis:keyword Content="school" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="9.93" />
+    </mavis:keyword>
+    <mavis:keyword Content="science" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="12.52" />
+    </mavis:keyword>
+    <mavis:keyword Content="time" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="18.07" />
+    </mavis:keyword>
+    <mavis:keyword Content="computers" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="19.04" />
+    </mavis:keyword>
+    <mavis:keyword Content="teachers" Count="1" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="24.03" />
+    </mavis:keyword>
+    <mavis:keyword Content="students" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="30.25" />
+    </mavis:keyword>
+    <mavis:keyword Content="age" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="41.57" />
+    </mavis:keyword>
+    <mavis:keyword Content="economic" Count="1" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="51.56" />
+    </mavis:keyword>
+    <mavis:keyword Content="responsibility" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="54.85" />
+    </mavis:keyword>
+    <mavis:keyword Content="world" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="62.11" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

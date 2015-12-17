@@ -1,0 +1,28 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>english navigation english food chain dice,inducement files,videos fee,quakes objects,spate,weeks,hog</mavis:keywords>
+  <items>
+    <mavis:keyword Content="english navigation english food chain dice" Count="1" AvgConfidence="0.87">
+      <mavis:keyworddetail Confidence="0.87" Offset="27.76" />
+    </mavis:keyword>
+    <mavis:keyword Content="inducement files" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="10.12" />
+    </mavis:keyword>
+    <mavis:keyword Content="videos fee" Count="1" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="13.21" />
+    </mavis:keyword>
+    <mavis:keyword Content="quakes objects" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="51.34" />
+    </mavis:keyword>
+    <mavis:keyword Content="spate" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="8" />
+    </mavis:keyword>
+    <mavis:keyword Content="weeks" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="41.01" />
+    </mavis:keyword>
+    <mavis:keyword Content="hog" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="45.13" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

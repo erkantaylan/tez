@@ -1,0 +1,45 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>singular engineer,follow-up,waste,time,mistake,languages,jobs,station,life,articles,country,student</mavis:keywords>
+  <items>
+    <mavis:keyword Content="singular engineer" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="30.55" />
+    </mavis:keyword>
+    <mavis:keyword Content="follow-up" Count="1" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="0.83" />
+    </mavis:keyword>
+    <mavis:keyword Content="waste" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="4.28" />
+    </mavis:keyword>
+    <mavis:keyword Content="time" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="4.51" />
+    </mavis:keyword>
+    <mavis:keyword Content="mistake" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="8.72" />
+    </mavis:keyword>
+    <mavis:keyword Content="languages" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="10.85" />
+    </mavis:keyword>
+    <mavis:keyword Content="jobs" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="12.33" />
+    </mavis:keyword>
+    <mavis:keyword Content="station" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="13.28" />
+    </mavis:keyword>
+    <mavis:keyword Content="life" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="13.94" />
+    </mavis:keyword>
+    <mavis:keyword Content="articles" Count="2" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="15.33" />
+      <mavis:keyworddetail Confidence="1.00" Offset="18.32" />
+    </mavis:keyword>
+    <mavis:keyword Content="country" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="17.02" />
+    </mavis:keyword>
+    <mavis:keyword Content="student" Count="2" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="1.00" Offset="21.73" />
+      <mavis:keyworddetail Confidence="0.80" Offset="28.7" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

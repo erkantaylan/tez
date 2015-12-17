@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.898</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:00.320" end="00:00:04.310">In one of the nicest nurseries in the world and there were beds for three</p>
+      <p begin="00:00:04.310" end="00:00:08.970">young people called john napoleon and windy mariah angela and</p>
+      <p begin="00:00:08.970" end="00:00:13.450">...the children of mr...darling the nursery was</p>
+      <p begin="00:00:15.070" end="00:00:20.030">...a large window when...bright fire with a huge fire garb rounded and</p>
+      <p begin="00:00:20.030" end="00:00:21.660">...clock and pretty</p>
+      <p begin="00:00:21.660" end="00:00:25.250">...colored nursery rhyme pictures over the walls.</p>
+      <p begin="00:00:25.250" end="00:00:28.710">...was in many ways a most interesting household.</p>
+      <p begin="00:00:30.020" end="00:00:33.410">For one thing although there was a pretty little</p>
+      <p begin="00:00:33.410" end="00:00:36.520">...made it called analyzer the children were</p>
+      <p begin="00:00:36.520" end="00:00:39.820">...interest by and a dog called</p>
+      <p begin="00:00:39.820" end="00:00:44.810">...nana...candle was kept in the nursery on the evening on which our story</p>
+      <p begin="00:00:44.810" end="00:00:49.420">begins nana was dozing peacefully by the far side with</p>
+      <p begin="00:00:49.420" end="00:00:53.820">her head between her paws mr and mrs darling we're getting ready to go</p>
+      <p begin="00:00:53.820" end="00:00:58.730">out to dinner and nana was to be left in sole charge of the children.</p>
+
+    </div>
+  </body>
+</tt>

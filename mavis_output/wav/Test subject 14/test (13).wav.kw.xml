@@ -1,0 +1,53 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>windy mariah angela,huge fire garb,nursery rhyme pictures,john napoleon,bright fire,world,people,children,darling,window,clock,walls,household,dog,nana</mavis:keywords>
+  <items>
+    <mavis:keyword Content="windy mariah angela" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="6.91" />
+    </mavis:keyword>
+    <mavis:keyword Content="huge fire garb" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="17.59" />
+    </mavis:keyword>
+    <mavis:keyword Content="nursery rhyme pictures" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="22.27" />
+    </mavis:keyword>
+    <mavis:keyword Content="john napoleon" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="5.41" />
+    </mavis:keyword>
+    <mavis:keyword Content="bright fire" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="16.62" />
+    </mavis:keyword>
+    <mavis:keyword Content="world" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="2.39" />
+    </mavis:keyword>
+    <mavis:keyword Content="people" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="4.59" />
+    </mavis:keyword>
+    <mavis:keyword Content="children" Count="2" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="9.88" />
+      <mavis:keyworddetail Confidence="0.80" Offset="35.93" />
+    </mavis:keyword>
+    <mavis:keyword Content="darling" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="11.66" />
+    </mavis:keyword>
+    <mavis:keyword Content="window" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="15.9" />
+    </mavis:keyword>
+    <mavis:keyword Content="clock" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="20.24" />
+    </mavis:keyword>
+    <mavis:keyword Content="walls" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="23.86" />
+    </mavis:keyword>
+    <mavis:keyword Content="household" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="28.21" />
+    </mavis:keyword>
+    <mavis:keyword Content="dog" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="38.75" />
+    </mavis:keyword>
+    <mavis:keyword Content="nana" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="39.9" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

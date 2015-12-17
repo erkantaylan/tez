@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.911</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:00.040" end="00:00:03.520">Andrew us ask a question which strikes fear in the...</p>
+      <p begin="00:00:03.520" end="00:00:08.490">of every programmer and that is first of all moore's law which is hell</p>
+      <p begin="00:00:08.490" end="00:00:13.400">for fifty years which says that computer our doubles every eighteen months may begin to</p>
+      <p begin="00:00:13.400" end="00:00:18.640">expire in the next ten so years in other whereas if you knew that</p>
+      <p begin="00:00:18.640" end="00:00:22.610">at christmas time you computer...as powerful as the</p>
+      <p begin="00:00:22.610" end="00:00:26.220">last christmas present would you buy a computer</p>
+      <p begin="00:00:26.220" end="00:00:31.180">would you upgrade most people...say no why should I...computer if</p>
+      <p begin="00:00:31.180" end="00:00:35.130">it's identical to flashers model well that could create</p>
+      <p begin="00:00:35.130" end="00:00:39.390">a planetary recession planetary depression knowing</p>
+      <p begin="00:00:39.390" end="00:00:44.170">that this engine of prosperity the computer revolution is running out of</p>
+      <p begin="00:00:44.170" end="00:00:48.040">stain but that's just the way it is last month, for example,</p>
+      <p begin="00:00:48.040" end="00:00:53.360">I spoke in zurich switzerland I met with a physicist at zurich ibm</p>
+      <p begin="00:00:53.360" end="00:00:58.260">...leading institutions and they told me that,...they could see it now it's</p>
+      <p begin="00:00:58.260" end="00:01:00.930">not and science-fiction is done the future.</p>
+
+    </div>
+  </body>
+</tt>

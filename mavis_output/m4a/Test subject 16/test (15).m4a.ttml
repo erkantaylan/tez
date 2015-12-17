@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.843</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:00.590" end="00:00:03.860">Once upon a time in a small village</p>
+      <p begin="00:00:03.860" end="00:00:05.860">affleck shift to puts</p>
+      <p begin="00:00:05.860" end="00:00:09.920">...lived...pretty young kern.</p>
+      <p begin="00:00:09.920" end="00:00:13.970">Since she all res...everett...put the hood</p>
+      <p begin="00:00:13.970" end="00:00:17.410">...known as little red riding</p>
+      <p begin="00:00:20.630" end="00:00:24.730">One-day freight riding hood smother...basket</p>
+      <p begin="00:00:24.730" end="00:00:27.640">of fresh apples to take to her grandmother.</p>
+      <p begin="00:00:28.770" end="00:00:32.270">Don't talk to strangers on the way her mother</p>
+      <p begin="00:00:32.270" end="00:00:35.460">...the curled promise to be home before</p>
+      <p begin="00:00:35.460" end="00:00:38.640">...and set of to her grandmother's house</p>
+      <p begin="00:00:38.640" end="00:00:40.810">which was deep in the both?</p>
+      <p begin="00:00:42.700" end="00:00:46.630">Now in this forrest lived...</p>
+      <p begin="00:00:46.630" end="00:00:49.720">bat what of or a...little children.</p>
+      <p begin="00:00:51.260" end="00:00:53.840">He so red riding hood skipping</p>
+      <p begin="00:00:53.840" end="00:00:58.500">along the path and badly wanted to...her up.</p>
+      <p begin="00:00:58.500" end="00:01:01.060">So, he came up with the wicked plan.</p>
+
+    </div>
+  </body>
+</tt>

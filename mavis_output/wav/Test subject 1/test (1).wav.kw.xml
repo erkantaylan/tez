@@ -1,0 +1,44 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>iphone os software,collaborative company,worldwide marketing,biggest startup,keys,charge,operations,planet,hours,week,business</mavis:keywords>
+  <items>
+    <mavis:keyword Content="iphone os software" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="22.65" />
+    </mavis:keyword>
+    <mavis:keyword Content="collaborative company" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="5.25" />
+    </mavis:keyword>
+    <mavis:keyword Content="worldwide marketing" Count="1" AvgConfidence="0.93">
+      <mavis:keyworddetail Confidence="0.93" Offset="32.28" />
+    </mavis:keyword>
+    <mavis:keyword Content="biggest startup" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="39.41" />
+    </mavis:keyword>
+    <mavis:keyword Content="keys" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="2.02" />
+    </mavis:keyword>
+    <mavis:keyword Content="charge" Count="5" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="21.4" />
+      <mavis:keyworddetail Confidence="1.00" Offset="25.4" />
+      <mavis:keyworddetail Confidence="1.00" Offset="28.14" />
+      <mavis:keyworddetail Confidence="1.00" Offset="31.21" />
+      <mavis:keyworddetail Confidence="1.00" Offset="34.63" />
+    </mavis:keyword>
+    <mavis:keyword Content="operations" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="35.48" />
+    </mavis:keyword>
+    <mavis:keyword Content="planet" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="40.56" />
+    </mavis:keyword>
+    <mavis:keyword Content="hours" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="45.82" />
+    </mavis:keyword>
+    <mavis:keyword Content="week" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="46.76" />
+    </mavis:keyword>
+    <mavis:keyword Content="business" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="49.82" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

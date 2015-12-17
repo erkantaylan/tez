@@ -1,0 +1,47 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>village affleck shift,fresh apples,grandmother house,time,kern,hood,red,talk,strangers,promise,home,forrest,children</mavis:keywords>
+  <items>
+    <mavis:keyword Content="village affleck shift" Count="1" AvgConfidence="0.83">
+      <mavis:keyworddetail Confidence="0.83" Offset="3.01" />
+    </mavis:keyword>
+    <mavis:keyword Content="fresh apples" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="24.85" />
+    </mavis:keyword>
+    <mavis:keyword Content="grandmother house" Count="1" AvgConfidence="0.95">
+      <mavis:keyworddetail Confidence="0.95" Offset="37.36" />
+    </mavis:keyword>
+    <mavis:keyword Content="time" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="1.29" />
+    </mavis:keyword>
+    <mavis:keyword Content="kern" Count="1" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="8.59" />
+    </mavis:keyword>
+    <mavis:keyword Content="hood" Count="2" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="1.00" Offset="13.08" />
+      <mavis:keyworddetail Confidence="0.61" Offset="22.47" />
+    </mavis:keyword>
+    <mavis:keyword Content="red" Count="1" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="16.03" />
+    </mavis:keyword>
+    <mavis:keyword Content="talk" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="29.17" />
+    </mavis:keyword>
+    <mavis:keyword Content="strangers" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="29.55" />
+    </mavis:keyword>
+    <mavis:keyword Content="promise" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="33.68" />
+    </mavis:keyword>
+    <mavis:keyword Content="home" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="34.64" />
+    </mavis:keyword>
+    <mavis:keyword Content="forrest" Count="1" AvgConfidence="0.80">
+      <mavis:keyworddetail Confidence="0.80" Offset="43.97" />
+    </mavis:keyword>
+    <mavis:keyword Content="children" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="49.22" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

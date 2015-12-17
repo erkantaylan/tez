@@ -1,0 +1,47 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>csharp windows form application project,sql database,video arrival,panel,bias,web,website,skater,goal,know-how,link,description</mavis:keywords>
+  <items>
+    <mavis:keyword Content="csharp windows form application project" Count="1" AvgConfidence="0.96">
+      <mavis:keyworddetail Confidence="0.96" Offset="3.59" />
+    </mavis:keyword>
+    <mavis:keyword Content="sql database" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="9.72" />
+    </mavis:keyword>
+    <mavis:keyword Content="video arrival" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="56.42" />
+    </mavis:keyword>
+    <mavis:keyword Content="panel" Count="2" AvgConfidence="0.93">
+      <mavis:keyworddetail Confidence="1.00" Offset="8.76" />
+      <mavis:keyworddetail Confidence="0.85" Offset="32.19" />
+    </mavis:keyword>
+    <mavis:keyword Content="bias" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="13.5" />
+    </mavis:keyword>
+    <mavis:keyword Content="web" Count="2" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="15.03" />
+      <mavis:keyworddetail Confidence="1.00" Offset="37.5" />
+    </mavis:keyword>
+    <mavis:keyword Content="website" Count="3" AvgConfidence="0.95">
+      <mavis:keyworddetail Confidence="1.00" Offset="17.21" />
+      <mavis:keyworddetail Confidence="1.00" Offset="23.69" />
+      <mavis:keyworddetail Confidence="0.85" Offset="26.87" />
+    </mavis:keyword>
+    <mavis:keyword Content="skater" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="21.68" />
+    </mavis:keyword>
+    <mavis:keyword Content="goal" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="36.05" />
+    </mavis:keyword>
+    <mavis:keyword Content="know-how" Count="1" AvgConfidence="0.90">
+      <mavis:keyworddetail Confidence="0.90" Offset="54.38" />
+    </mavis:keyword>
+    <mavis:keyword Content="link" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="58.38" />
+    </mavis:keyword>
+    <mavis:keyword Content="description" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="59.09" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

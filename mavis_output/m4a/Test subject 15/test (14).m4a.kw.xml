@@ -1,0 +1,60 @@
+<rss version="2.0"  xmlns:mavis="http://www.microsoft.com/dtds/mavis/">
+<channel>
+  <mavis:keywords>computer science undergraduate love computers,computer science data novak,technology world people,computer science degree,computer science delight,operating systems,computer layout,know-how,hard,mathematics,technical,day,company,teachers,job,stuff,words</mavis:keywords>
+  <items>
+    <mavis:keyword Content="computer science undergraduate love computers" Count="1" AvgConfidence="0.92">
+      <mavis:keyworddetail Confidence="0.92" Offset="3.35" />
+    </mavis:keyword>
+    <mavis:keyword Content="computer science data novak" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="28.19" />
+    </mavis:keyword>
+    <mavis:keyword Content="technology world people" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="40.12" />
+    </mavis:keyword>
+    <mavis:keyword Content="computer science degree" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="46.2" />
+    </mavis:keyword>
+    <mavis:keyword Content="computer science delight" Count="1" AvgConfidence="0.87">
+      <mavis:keyworddetail Confidence="0.87" Offset="54.52" />
+    </mavis:keyword>
+    <mavis:keyword Content="operating systems" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="9.7" />
+    </mavis:keyword>
+    <mavis:keyword Content="computer layout" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="57.17" />
+    </mavis:keyword>
+    <mavis:keyword Content="know-how" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="0.82" />
+    </mavis:keyword>
+    <mavis:keyword Content="hard" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="1.13" />
+    </mavis:keyword>
+    <mavis:keyword Content="mathematics" Count="2" AvgConfidence="0.95">
+      <mavis:keyworddetail Confidence="0.90" Offset="2.17" />
+      <mavis:keyworddetail Confidence="1.00" Offset="15.69" />
+    </mavis:keyword>
+    <mavis:keyword Content="technical" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="10.99" />
+    </mavis:keyword>
+    <mavis:keyword Content="day" Count="1" AvgConfidence="0.85">
+      <mavis:keyworddetail Confidence="0.85" Offset="12.13" />
+    </mavis:keyword>
+    <mavis:keyword Content="company" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="13.43" />
+    </mavis:keyword>
+    <mavis:keyword Content="teachers" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="18.68" />
+    </mavis:keyword>
+    <mavis:keyword Content="job" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="19.55" />
+    </mavis:keyword>
+    <mavis:keyword Content="stuff" Count="1" AvgConfidence="1.00">
+      <mavis:keyworddetail Confidence="1.00" Offset="22.56" />
+    </mavis:keyword>
+    <mavis:keyword Content="words" Count="2" AvgConfidence="0.95">
+      <mavis:keyworddetail Confidence="1.00" Offset="51.59" />
+      <mavis:keyworddetail Confidence="0.90" Offset="53.1" />
+    </mavis:keyword>
+  </items>
+</channel>
+</rss>

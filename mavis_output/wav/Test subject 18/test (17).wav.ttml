@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.903</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:00.120" end="00:00:04.840">Hello,...this...going to show you how you can create the csharp.</p>
+      <p begin="00:00:04.840" end="00:00:09.310">Windows form application project to connect to see panel</p>
+      <p begin="00:00:09.310" end="00:00:14.020">my sql database now whenever you bias</p>
+      <p begin="00:00:14.020" end="00:00:19.080">some web hosting for...your website, for example,</p>
+      <p begin="00:00:19.080" end="00:00:24.700">you by hosting from good that...skater or any other hosting website to</p>
+      <p begin="00:00:24.700" end="00:00:29.170">host your on a website then it comes with</p>
+      <p begin="00:00:29.170" end="00:00:33.240">...bengal and, for example, the...panel will</p>
+      <p begin="00:00:33.240" end="00:00:38.550">look something like this I'm using the goal that the web hosting</p>
+      <p begin="00:00:38.550" end="00:00:44.320">but it can be any of the roped hosting and the will all provide seep and,</p>
+      <p begin="00:00:44.320" end="00:00:47.160">in the last video I've shown you how you can create a</p>
+      <p begin="00:00:47.160" end="00:00:50.590">...sql database using this</p>
+      <p begin="00:00:50.590" end="00:00:55.540">...parallel okay so if you don't know-how to created just</p>
+      <p begin="00:00:55.540" end="00:00:59.800">see my last video arrivalgive the link in the description.</p>
+
+    </div>
+  </body>
+</tt>

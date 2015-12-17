@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.909</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:00.390" end="00:00:05.190">I would like to know-how hard it is the mathematics part of computer science undergraduate</p>
+      <p begin="00:00:05.190" end="00:00:07.610">course love computers...and,</p>
+      <p begin="00:00:07.610" end="00:00:10.820">would love to know how to code understand the operating systems</p>
+      <p begin="00:00:10.820" end="00:00:15.560">...a technical way to maybe some day work for some big company but I'm worried about using the course because</p>
+      <p begin="00:00:15.560" end="00:00:19.550">...mathematics part because I'm not very good at it do you think the teachers do a good</p>
+      <p begin="00:00:19.550" end="00:00:24.510">job explaining what you have to do or do you have to learn most...stuff by yourself because if that's the case</p>
+      <p begin="00:00:24.510" end="00:00:29.970">I guess it's too hard for me what are your thoughts computer science?</p>
+      <p begin="00:00:29.970" end="00:00:33.470">Data...yeah,</p>
+      <p begin="00:00:33.470" end="00:00:37.280">I don't know what why is it's so funny like they're.</p>
+      <p begin="00:00:37.280" end="00:00:41.450">People just blind to certain things and like the technology world people are</p>
+      <p begin="00:00:41.450" end="00:00:46.130">does blind to things and it's so funny because like people say...want</p>
+      <p begin="00:00:46.130" end="00:00:49.480">...computer science degree...think I need to know math</p>
+      <p begin="00:00:50.650" end="00:00:54.110">...the to words what the to words</p>
+      <p begin="00:00:54.110" end="00:00:59.040">...computer science delight well computer layout</p>
+      <p begin="00:00:59.040" end="00:01:01.400">what's the other word computer.</p>
+
+    </div>
+  </body>
+</tt>
